@@ -2,7 +2,7 @@
 
 ### <h2>Hi, I'm Yahya Temouch! 👋</h2>
 
-💻 Software Developer passionate about building useful and impactful projects<br/>
+💻 Web Developer passionate about building useful and impactful projects<br/>
 🎓 Studied |[Computer Science](https://en.wikipedia.org/wiki/Computer_science)| at IFMOTICA <br/>
 🎥 Sharing knowledge about coding, tech, and productivity on [YouTube](https://youtube.com)<br/>
 🌱 Currently exploring data science, machine learning, and open-source contributions<br/>

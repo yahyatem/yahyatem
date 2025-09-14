@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-### Hi, I'm yahya temouch! 👋
+### <h2>Hi, I'm Yahya Temouch! 👋</h2>
 
 💻 Software Developer passionate about building useful and impactful projects<br/>
 🎓 Studied |[Computer Science](https://en.wikipedia.org/wiki/Computer_science)| at IFMOTICA <br/>
